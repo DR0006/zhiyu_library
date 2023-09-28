@@ -1,15 +1,15 @@
 # 知羽图书馆1
 
 这是JAVA课程设计的图书管理系统,最终稿  
-初稿见:
-- [xiaoyu_library](https://github.com/FxDr2003/xiaoyu_library)
+初稿见:未开放
+- [xiaoyu_library](https://github.com/DR0006/xiaoyu_library)
 
 ## 作者
 
 * **Fxx**
 
-- [github--@FxDr2003](https://github.com/FxDr2003)
-- [CSDN--@Fxx_2003](https://blog.csdn.net/Fx_2003?type=blog)
+- [github--@DR0006](https://github.com/DR0006)
+- [CSDN--@Fx_x](https://blog.csdn.net/Fx_2003)
 
 ### 功能说明
 
